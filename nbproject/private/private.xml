@@ -3,16 +3,18 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Work/Java/Netbeans/Hospital%20management/src/main/Doctor.java</file>
-            <file>file:/C:/Work/Java/Netbeans/Hospital%20management/src/main/FileWrite.java</file>
-            <file>file:/C:/Work/Java/Netbeans/Hospital%20management/src/main/AdminDoctorPanelList.java</file>
-            <file>file:/C:/Work/Java/Netbeans/Hospital%20management/src/main/AdminDoctorPanelUpdate.java</file>
-            <file>file:/C:/Work/Java/Netbeans/Hospital%20management/src/main/AdminLoginFrame.java</file>
-            <file>file:/C:/Work/Java/Netbeans/Hospital%20management/src/main/DoctorHomePage.java</file>
-            <file>file:/C:/Work/Java/Netbeans/Hospital%20management/src/main/Patient.java</file>
-            <file>file:/C:/Work/Java/Netbeans/Hospital%20management/src/main/AdminDoctorPanelRemove.java</file>
-            <file>file:/C:/Work/Java/Netbeans/Hospital%20management/src/main/AdminDoctorPanelAdd.java</file>
-            <file>file:/C:/Work/Java/Netbeans/Hospital%20management/src/main/AdminPharPanelAdd.java</file>
+            <file>file:/D:/Hospital-Mangement-System/src/main/AdminDoctorPanelSearch.java</file>
+            <file>file:/D:/Hospital-Mangement-System/src/main/AdminPatientPanelUpdate.java</file>
+            <file>file:/D:/Hospital-Mangement-System/src/main/AdminPatientPanelAdd.java</file>
+            <file>file:/D:/Hospital-Mangement-System/src/main/Doctor.java</file>
+            <file>file:/D:/Hospital-Mangement-System/src/main/AdminPatientPanelRemove.java</file>
+            <file>file:/D:/Hospital-Mangement-System/src/main/PatientPanelAppointment.java</file>
+            <file>file:/D:/Hospital-Mangement-System/src/main/AdminDoctorPanelAdd.java</file>
+            <file>file:/D:/Hospital-Mangement-System/src/main/AdminHomePage.java</file>
+            <file>file:/D:/Hospital-Mangement-System/src/main/DoctorPanelUpdate.java</file>
+            <file>file:/D:/Hospital-Mangement-System/src/main/AdminLoginFrame.java</file>
+            <file>file:/D:/Hospital-Mangement-System/src/main/DoctorPanelConsultation.java</file>
+            <file>file:/D:/Hospital-Mangement-System/src/main/RecpPanelAppointment.java</file>
         </group>
     </open-files>
 </project-private>
